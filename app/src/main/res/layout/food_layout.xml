@@ -59,7 +59,7 @@
             android:layout_marginLeft="10dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/Like"/>
+            android:src="@drawable/like"/>
 
         <TextView
             android:id="@+id/dislike_number"
